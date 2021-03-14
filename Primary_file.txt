@@ -1,3 +1,0 @@
-Isi First File
-
-Mengubah Isi dari file first file.txt
